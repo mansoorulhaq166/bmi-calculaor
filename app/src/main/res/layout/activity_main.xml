@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     android:id="@+id/main_lnr_layout"
+=======
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#EFEFEF"
     android:gravity="center"
     android:orientation="vertical"
+<<<<<<< HEAD
     android:padding="16dp">
+=======
+    android:id="@+id/main_lnr_layout"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,7 +37,12 @@
             android:id="@+id/text_result"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:paddingHorizontal="8dp"
+=======
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
             android:text="Calculate Your BMI"
             android:textColor="#000"
             android:textSize="42sp"
@@ -37,7 +53,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
+<<<<<<< HEAD
             android:paddingHorizontal="8dp"
+=======
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
             android:text="You are Healthy"
             android:textAllCaps="true"
             android:textColor="#B3B3B3"
@@ -54,11 +75,20 @@
             android:id="@+id/edit_weight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:hint="Weight (in KGs)"
             android:inputType="number"
             android:paddingHorizontal="8dp"
             android:textColor="@color/black"
             android:textColorHint="@color/black" />
+=======
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:hint="Weight (in KGs)"
+            android:inputType="number"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp" />
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -69,6 +99,7 @@
                 android:id="@+id/edit_height_feet"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+<<<<<<< HEAD
                 android:layout_marginEnd="12dp"
                 android:layout_weight="1"
                 android:hint="Height(in Feet)"
@@ -76,17 +107,36 @@
                 android:paddingHorizontal="4dp"
                 android:textColor="@color/black"
                 android:textColorHint="@color/black" />
+=======
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:hint="Height(in Feet)"
+                android:textColorHint="@color/black"
+                android:textColor="@color/black"
+                android:inputType="number"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp" />
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
 
             <EditText
                 android:id="@+id/edit_height_inches"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+<<<<<<< HEAD
                 android:hint="Height(in Inches)"
                 android:inputType="number"
                 android:paddingHorizontal="4dp"
                 android:textColor="@color/black"
                 android:textColorHint="@color/black" />
+=======
+                android:hint="Height(in Feet)"
+                android:textColorHint="@color/black"
+                android:textColor="@color/black"
+                android:inputType="number"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp" />
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
         </LinearLayout>
     </LinearLayout>
 

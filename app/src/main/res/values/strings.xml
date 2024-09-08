@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
+<<<<<<< HEAD
 
     <string name="your_bmi">Your BMI</string>
     <string name="overweight">You are OverWeight</string>
     <string name="underweight">You are UnderWeight</string>
     <string name="healthy">You are Healthy</string>
+=======
+>>>>>>> 87453b12eea9c094d1bff880b000a0ec26c60fcd
 </resources>
