@@ -14,6 +14,7 @@ The BMI Calculator is a simple Android application developed in Kotlin that help
 
 - **Language**: Kotlin
 - **UI Framework**: XML
+- **Architecture**: MVVM (Model-View-ViewModel)
 
 ## Installation
 
