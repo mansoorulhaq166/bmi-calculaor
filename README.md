@@ -17,7 +17,7 @@ The BMI Calculator is a simple Android application developed in Kotlin that help
 - **Architecture**: MVVM (Model-View-ViewModel)
 
 ## Screenshots
-<img src="(https://github.com/mansoorulhaq166/bmi-calculaor/blob/main/Screenshots/Screenshot_20240909-044340.png)" alt="BMI Calculator Main Screen" width="400" height="300"/>
+<img src="https://github.com/mansoorulhaq166/bmi-calculaor/blob/main/Screenshots/Screenshot_20240909-044340.png" alt="BMI Calculator Main Screen" width="400" height="300"/>
 
 
 ![BMI Calculator Result Screen](https://github.com/mansoorulhaq166/bmi-calculaor/blob/main/Screenshots/Screenshot_20240909-044539.png)
