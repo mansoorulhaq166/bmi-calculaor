@@ -106,7 +106,13 @@ Contributions to the BMI Calculator are welcome. To contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the [Apache License 2.0](LICENSE).
+
+### Summary of Apache License 2.0:
+- You can freely use, modify, and distribute this software.
+- Any modified versions must include the same license.
+- Contributions back to the project are encouraged, but not required.
+- There is no warranty for the software; it is provided "as is".
 
 ## Contact
 
