@@ -14,6 +14,13 @@ The BMI Calculator is a simple Android application developed in Kotlin that help
 
 - **Language**: Kotlin
 - **UI Framework**: XML
+- **Architecture**: MVVM (Model-View-ViewModel)
+
+## Screenshots
+<img src="https://github.com/mansoorulhaq166/bmi-calculaor/blob/main/Screenshots/Screenshot_20240909-044340.png" alt="BMI Calculator Main Screen" width="400"/>
+
+<img src="https://github.com/mansoorulhaq166/bmi-calculaor/blob/main/Screenshots/Screenshot_20240909-044539.png" alt="BMI Calculator Result Screen" width="400"/>
+
 
 ## Installation
 
@@ -95,6 +102,17 @@ Contributions to the BMI Calculator are welcome. To contribute:
 6. **Create a Pull Request**
 
    Go to the GitHub repository and create a pull request with a description of your changes.
+
+
+## License
+
+This project is licensed under the terms of the [Apache License 2.0](LICENSE).
+
+### Summary of Apache License 2.0:
+- You can freely use, modify, and distribute this software.
+- Any modified versions must include the same license.
+- Contributions back to the project are encouraged, but not required.
+- There is no warranty for the software; it is provided "as is".
 
 ## Contact
 
