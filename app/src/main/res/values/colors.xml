@@ -12,4 +12,7 @@
     <color name="colorBlue"> #87b2ee</color>
     <color name="colorRed"> #f28a88</color>
     <color name="colorYellow"> #f9e488</color>
+
+    <color name="colorAccent">#FF6F61</color>
+    <color name="gray">#808080</color>
 </resources>
