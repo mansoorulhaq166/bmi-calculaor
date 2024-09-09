@@ -103,6 +103,11 @@ Contributions to the BMI Calculator are welcome. To contribute:
 
    Go to the GitHub repository and create a pull request with a description of your changes.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any inquiries or feedback, please reach out to:
